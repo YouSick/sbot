@@ -1,5 +1,5 @@
 #User
-"!userinfo [username or blank]": displays info for the selected user or for message sender if arguments are not provided
+!userinfo [username or blank]": displays info for the selected user or for message sender if arguments are not provided
 
 #Music
 "!play [song name or blank]": plays a song or if arguments are not provided plays the first song in the queue
